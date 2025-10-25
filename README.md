@@ -49,11 +49,10 @@ Each student can create a professional digital profile similar to LinkedIn:
 ---
 
 ## 👩‍💻 Project Team Members
-
--Anuj Kumar
-- Shalini Uniyal
+- Anuj Kumar
 - Vedant Devrani
 - Devansh Rawat
+- Shalini Uniyal
 
 
 ---
